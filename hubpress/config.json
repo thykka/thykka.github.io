@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "thykka",
-    "repositoryName": "thykka.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"thykka","repositoryName":"thykka.github.io","branch":"master"},"site":{"title":"Bytes and pieces","description":"Why not simply *breathe* JavaScript?","postsPerPage":"8","url":"https://thykka.github.io"},"socialnetwork":{},"theme":{"name":"Casper","url":"//thykka.github.io/themes/Casper"}}
